@@ -19,7 +19,7 @@
 </ol>
 
 - 💞️ I’m looking for a full-time position as a software developer
-- 📫 How to reach me @ rjardel@atcoautomation.com
+- 📫 Reach me @ rjardel@atcoautomation.com
 
 <!---
 crumbBum/crumbBum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
