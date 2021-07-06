@@ -3,7 +3,8 @@
   <li> 👀 I’m interested in Sushi, Seadoos, and Software </li>
   <li> 💞️ I’m looking for a full-time position as a software developer </li>
   <li> 📫 Reach me @ rjardel@atcoautomation.com </li>
-  
+  <hr>
+  <br>  
 🌱 I’m currently learning 
 <ul>
 <li> <a href = "https://www.udemy.com/share/101W9C2@Pm1jVFpbTlYMe0dCBkhNVD5HSg==/"> The Web Developer Bootcamp 2021 </a> </li>
