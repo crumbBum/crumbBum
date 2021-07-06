@@ -1,5 +1,6 @@
-👋 Hi, I’m @crumbBum
-👀 I’m interested in Sushi, Seadoos, and Software
+<ul>
+  <li>👋 Hi, I’m @crumbBum</li>
+  <li> 👀 I’m interested in Sushi, Seadoos, and Software <li>
 
 🌱 I’m currently learning 
 <ul>
