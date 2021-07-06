@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @crumbBum
-- 👀 I’m interested in Sushi, Seadoos, and Software
-- 🌱 I’m currently learning 
+👋 Hi, I’m @crumbBum
+👀 I’m interested in Sushi, Seadoos, and Software
+
+🌱 I’m currently learning 
 <ul>
 <li> <a href = "https://www.udemy.com/share/101W9C2@Pm1jVFpbTlYMe0dCBkhNVD5HSg==/"> The Web Developer Bootcamp 2021 </a> </li>
 </ul>
