@@ -18,6 +18,7 @@
 </ul>
 🤘 List of things to learn next
 <ol>
+<li> <a href = "https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/"> Ruby on Rails 6: Learn 25+ gems and build a Startup MVP 2021 </a></li> 
 <li> <a href = "https://www.udemy.com/share/103Z3i2@Pm1jVGJKS1QKcERKA3JzVBRHSg==/"> Advanced Python by Example </a> </li>
 <li> <a href = "https://www.udemy.com/share/101tEi2@PUdKfWJbS1ENcU5DAnZNfj5uYH0=/"> Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps </a> </li>
 <li> <a href = "https://www.udemy.com/share/101Wci2@PkdgfVpbTlYMe0dCBkhnVD5t/"> Machine Learning A-Z™: Hands-On Python & R In Data Science </a> </li>
